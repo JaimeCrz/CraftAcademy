@@ -135,6 +135,7 @@ The fifth week we boarded a new week of big management projects with groups of 4
 [API](https://github.com/CraftAcademy/slowfood_api_team_4)
 [Front](https://github.com/CraftAcademy/slowfood-client-team-4)
 
+Thanks you Robin, Daniel, Janko for this fantastic week! It layed the ground for an awesome friendship to come.
 
 * Interview challenge where we needed to build an Rock paper scissors all by ourselves on our spare time, in order to simulate real life challenges that we might encounter with future interviews.
 
@@ -148,9 +149,29 @@ The fifth week we boarded a new week of big management projects with groups of 4
 
 **Week 10**
 * Tech week
-- Git Internals
-- Node.js
 
+After all the chaotic weeks of non-stop work, we finally thought we were gonna have a chill week with a little of theory but what it seemed to be a calm week became one of the heaviest weeks of the bootcamp going through the following subjects:
+
+* Web 101
+- REST.
+- Web sockets.
+- Status codes (extended).
+- Technology behind web services.
+
+* Source control management.
+- Git (deep in the internals).
+- Centralized vs distributes VCS.
+
+* Debugging
+- Chrome debugging.
+- Bisect using Git.
+- Node.js debbuging.
+
+* Intro to:
+- Node.js
+- ExpressJS
+
+Thanks to the coaches for this week and for helping us with our questions.
 
 **Week 11-12**
 * Final project week
